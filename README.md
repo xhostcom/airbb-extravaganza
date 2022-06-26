@@ -1,7 +1,6 @@
-# README
+# airBB-extravaganza
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+AirB B clone with extra features, UUIDs, enhancements and other improvemeents
 
 Things you may want to cover:
 
